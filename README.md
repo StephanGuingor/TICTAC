@@ -1,2 +1,3 @@
 # TICTAC
-Luca
+Simple Tic Tac Toe
+
